@@ -4,7 +4,13 @@
         <meta charset="utf-8">
         <title>Wedding Invite</title>
         <style>
-            
+         body{text-align:center;
+            background-color:#808000;
+            color:white;
+        }
+        h1{font-family:Brush Script MT, Brush Script Std,cursive;
+    font-size:45px;
+        }   
         </style>
     </head>
     <body>
