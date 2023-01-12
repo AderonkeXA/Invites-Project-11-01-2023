@@ -10,7 +10,16 @@
         }
         h1{font-family:Brush Script MT, Brush Script Std,cursive;
     font-size:45px;
-        }   
+    letter-spacing:3px;
+        }  
+        div{background-color:tan;
+            width:7cm;
+            text-align:center;
+            margin:auto;
+            padding:5px;
+            text-decoration-line:underline;
+        }
+            
         </style>
     </head>
     <body>
@@ -30,9 +39,8 @@
         <p>WITH RECEPTION TO FOLLOW AT 6PM</p>
         <p>BROOKLEIGH WINERY</p>
         <p>223 HIGHLAND WAY</p>
+        
+        <div>SVP to Danielle on 1234 567 8910</div>
         </h4>
-        
-        <h5>RSVP to Danielle on 1234 567 8910</h5>
-        
     </body>
 </html>
